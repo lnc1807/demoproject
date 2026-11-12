@@ -1,3 +1,4 @@
+
 package com.example;
 
 public class TempConverter {
@@ -5,6 +6,7 @@ public class TempConverter {
     public static void main(String[] args) {
 
         double celsius = 25;
+
         double fahrenheit = 98.6;
 
         System.out.println("Celsius to Fahrenheit: " +
@@ -24,4 +26,5 @@ public class TempConverter {
             System.out.println("Valid Kelvin value");
 
     }
+
 }
